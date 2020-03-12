@@ -2,6 +2,10 @@ package ejercicio;
 
 import java.util.Scanner;
 
+/**
+ * @author Enrique
+ *
+ */
 public class ejer01 {
 
 	static int[] vector = new int[5];
@@ -9,7 +13,7 @@ public class ejer01 {
 	public static void main(String[] args) {
 		// TODO - leer 5 numeros enteros y almacenarlos en un arreglo
 		// TODO - presentar en pantalla los 5 numeros en el orden ingresado y en orden inverso
-		// TODO - presentar en pantalla lo numeros mayores a 50
+		// TODO - presentar en pantalla los numeros mayores a 50
 
 		System.out.println("Ingrese numeros");
 		lectura();
